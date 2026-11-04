@@ -57,4 +57,8 @@ Step 7: Finalize and Export
 
 # Output
 
+[Prompt eng Exp - 1.pdf](https://github.com/user-attachments/files/34362224/Prompt.eng.Exp.-.1.pdf)
+
+
 # Result
+A comprehensive report on Generative AI and Large Language Models (LLMs) was successfully developed, covering their fundamentals, architectures, applications, and scaling impacts.
